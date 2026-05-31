@@ -236,14 +236,11 @@ Option B:
 
 ---
 
-## 🖥️ Screenshots & Demo
+## 🖥️ Screenshots
 
-> *Coming soon — demo video and UI screenshots will be added here.*
-
-| Splash Screen | Login Screen | Dashboard | Password Generator |
-|:---:|:---:|:---:|:---:|
-| 🔐 | 🔑 | 📋 | 🔑 |
-| App intro animation | Secure master password unlock | All credentials at a glance | Strong password creation |
+| Dashboard | Login Screen | Password Generator |
+|:---:|:---:|:---:|
+| ![Dashboard](screenshot_dashboard.png) | ![Login](screenshot_login.png) | ![Generator](screenshot_generator.png) |
 
 ---
 
@@ -358,7 +355,7 @@ VaultIQ is built and maintained by **AutomateIQ Labs** — a software developmen
 | Platform | Link |
 |---|---|
 | 💬 **Facebook Page** | [facebook.com/automateiq.labs](https://www.facebook.com/automateiq.labs) |
-| 💼 **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE) |
+| 💼 **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/muhammad-antor) |
 | 📧 **License Inquiries** | Message via Facebook Page |
 | 🐛 **Bug Reports** | Open a GitHub Issue |
 
