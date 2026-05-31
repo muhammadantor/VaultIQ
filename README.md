@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="logo_vaultiq.png" alt="VaultIQ Logo" width="300"/>
+<img src="logo_vaultiq.ico" alt="VaultIQ Logo" width="300"/>
 
 <br/><br/>
 
