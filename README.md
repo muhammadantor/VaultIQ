@@ -8,6 +8,10 @@
 
 <br/><br/>
 
+<img src="logo_vaultiq.png" alt="VaultIQ Logo" width="300"/>
+
+<br/><br/>
+
 ```
 ██╗   ██╗ █████╗ ██╗   ██╗██╗  ████████╗██╗ ██████╗
 ██║   ██║██╔══██╗██║   ██║██║  ╚══██╔══╝██║██╔═══██╗
@@ -23,9 +27,9 @@
 
 <br/>
 
-[![Download](https://img.shields.io/badge/⬇️%20Download%20VaultIQ%20v1.0%20(.exe)-2563EB?style=for-the-badge&logoColor=white)](https://github.com/automateiq-labs/vaultiq/releases/latest/download/VaultIQ.exe)
+[![Download](https://img.shields.io/badge/⬇️%20Download%20VaultIQ%20v1.0%20(.exe)-2563EB?style=for-the-badge&logoColor=white)](https://github.com/muhammadantor/VaultIQ/releases/latest/download/VaultIQ.exe)
 &nbsp;&nbsp;
-[![Free Trial](https://img.shields.io/badge/🆓%203--Day%20Free%20Trial%20Included-4ADE80?style=for-the-badge&logoColor=white)](https://github.com/automateiq-labs/vaultiq/releases/latest/download/VaultIQ.exe)
+[![Free Trial](https://img.shields.io/badge/🆓%203--Day%20Free%20Trial%20Included-4ADE80?style=for-the-badge&logoColor=white)](https://github.com/muhammadantor/VaultIQ/releases/latest/download/VaultIQ.exe)
 &nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/💬%20Get%20License%20Key-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/automateiq.labs)
 
@@ -160,7 +164,7 @@ VaultIQ uses **4 independent security layers**. All layers must pass before data
 ### Step 1 — Download
 Click the button below to download the `.exe` file directly:
 
-**[⬇️ Download VaultIQ v1.0 — Windows (.exe)](https://github.com/automateiq-labs/vaultiq/releases/latest/download/VaultIQ.exe)**
+**[⬇️ Download VaultIQ v1.0 — Windows (.exe)](https://github.com/muhammadantor/VaultIQ/releases/latest/download/VaultIQ.exe)**
 
 > File size: ~60–80 MB | No installation required — just double-click and run.
 
@@ -355,7 +359,7 @@ VaultIQ is built and maintained by **AutomateIQ Labs** — a software developmen
 | Platform | Link |
 |---|---|
 | 💬 **Facebook Page** | [facebook.com/automateiq.labs](https://www.facebook.com/automateiq.labs) |
-| 💼 **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/muhammad-antor) |
+| 💼 **LinkedIn** | [linkedin.com/in/muhammad-antor](https://www.linkedin.com/in/muhammad-antor) |
 | 📧 **License Inquiries** | Message via Facebook Page |
 | 🐛 **Bug Reports** | Open a GitHub Issue |
 
