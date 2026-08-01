@@ -275,6 +275,14 @@ Option B:
 
 ---
 
+## 🖥️ Screenshots — VaultIQ Offline Password Manager UI
+
+| Dashboard | Login Screen | Password Generator |
+|:---:|:---:|:---:|
+| ![Dashboard](screenshot_dashboard.png) | ![Login](screenshot_login.png) | ![Generator](screenshot_generator.png) |
+
+---
+
 ## 🛠️ Technical Stack — Python Desktop App with AES Encryption
 
 ```
